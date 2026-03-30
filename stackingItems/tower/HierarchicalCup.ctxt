@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HierarchicalCup
+comment0.text=\r\n\ Taza\ de\ tipo\ hierarchical\:\ al\ entrar\ a\ la\ torre\ desplaza\ todos\ los\r\n\ objetos\ de\ menor\ tama\u00F1o\ hacia\ arriba.\ Si\ llega\ al\ fondo\ de\ la\ torre,\r\n\ no\ puede\ ser\ removida.\r\n\ Se\ distingue\ visualmente\ con\ color\ cyan.\r\n\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=number
+comment1.target=HierarchicalCup(int)
+comment1.text=\r\n\ Crea\ una\ taza\ hierarchical\ con\ el\ n\u00FAmero\ identificador\ dado.\r\n\ @param\ number\ n\u00FAmero\ identificador\r\n
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment2.text=\r\n\ {@inheritDoc}\r\n\ @return\ "hierarchical"\r\n
+comment3.params=atBottom
+comment3.target=void\ setAtBottom(boolean)
+comment3.text=\r\n\ Marca\ esta\ taza\ como\ ubicada\ en\ el\ fondo\ de\ la\ torre.\r\n\ Una\ vez\ en\ el\ fondo,\ no\ puede\ ser\ removida.\r\n\ @param\ atBottom\ true\ si\ est\u00E1\ en\ el\ fondo\r\n
+comment4.params=
+comment4.target=boolean\ isAtBottom()
+comment4.text=\r\n\ Indica\ si\ la\ taza\ est\u00E1\ en\ el\ fondo\ y\ no\ puede\ removerse.\r\n\ @return\ true\ si\ est\u00E1\ bloqueada\ en\ el\ fondo\r\n
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TowerATest
+comment0.text=\r\n\ Pruebas\ de\ aceptaci\u00F3n\ del\ Ciclo\ 4.\r\n\ Cada\ prueba\ muestra\ visualmente\ el\ comportamiento\ y\ pregunta\ al\ usuario\r\n\ si\ lo\ acepta.\r\n\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=
+comment1.target=void\ acceptanceTestOpenerCup()
+comment1.text=\r\n\ Prueba\ de\ aceptaci\u00F3n\ 1\:\ OpenerCup\ elimina\ tapas\ sueltas\ al\ entrar.\r\n\ Se\ insertan\ tapas\ sueltas\ y\ luego\ una\ OpenerCup;\ el\ usuario\ verifica\r\n\ que\ las\ tapas\ desaparecen.\r\n
+comment2.params=
+comment2.target=void\ acceptanceTestCrazyAndFrozen()
+comment2.text=\r\n\ Prueba\ de\ aceptaci\u00F3n\ 2\:\ CrazyLid\ va\ a\ la\ base\ y\ FrozenCup\ no\ se\ mueve.\r\n\ Se\ inserta\ una\ FrozenCup,\ se\ intenta\ hacer\ swap\ y\ se\ inserta\ una\ CrazyLid;\r\n\ el\ usuario\ verifica\ que\ la\ CrazyLid\ est\u00E1\ en\ la\ base\ y\ la\ FrozenCup\ no\ se\ movi\u00F3.\r\n
+comment3.params=ms
+comment3.target=void\ sleep(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Ejecuta\ ambas\ pruebas\ de\ aceptaci\u00F3n.\r\n\ @param\ args\ argumentos\ de\ l\u00EDnea\ de\ comandos\ (no\ usados)\r\n
+numComments=5

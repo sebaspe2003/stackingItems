@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TowerContest
+comment0.text=\r\n\ Resuelve\ y\ simula\ el\ problema\ de\ la\ marat\u00F3n\ Stacking\ Cups.\r\n\ Solo\ usa\ tazas\ y\ tapas\ normales\ seg\u00FAn\ el\ enunciado\ del\ ciclo\ 4.\r\n\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=n\ h
+comment1.target=java.lang.String\ solve(int,\ int)
+comment1.text=\r\n\ Determina\ si\ es\ posible\ construir\ una\ torre\ de\ altura\ h\ con\ n\ tazas.\r\n\ @param\ n\ n\u00FAmero\ de\ tazas\ disponibles\r\n\ @param\ h\ altura\ objetivo\r\n\ @return\ "POSSIBLE"\ o\ "IMPOSSIBLE"\r\n
+comment2.params=n\ h
+comment2.target=void\ simulate(int,\ int)
+comment2.text=\r\n\ Simula\ visualmente\ la\ soluci\u00F3n\ usando\ tazas\ y\ tapas\ normales.\r\n\ @param\ n\ n\u00FAmero\ de\ tazas\ disponibles\r\n\ @param\ h\ altura\ objetivo\r\n
+numComments=3

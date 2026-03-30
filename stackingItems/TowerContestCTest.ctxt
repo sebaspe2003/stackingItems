@@ -1,0 +1,40 @@
+#BlueJ class context
+comment0.target=TowerContestCTest
+comment0.text=\r\n\ Clase\ de\ pruebas\ com\u00FAn\ para\ TowerContest.\r\n\ Casos\ de\ prueba\ compartidos\ para\ verificar\ la\ soluci\u00F3n.\r\n\ \r\n\ @autores\ Nicol\u00E1s\ Prieto\ y\ Sebastian\ Pe\u00F1a\r\n\ @version\ 3\r\n
+comment1.params=
+comment1.target=void\ testCase01()
+comment1.text=\r\n\ Caso\ de\ prueba\ 1\:\ n\=1,\ h\=1\r\n\ Debe\ ser\ POSSIBLE\ (una\ tapa\ suelta)\r\n
+comment10.params=
+comment10.target=void\ testCase10()
+comment10.text=\r\n\ Caso\ de\ prueba\ 10\:\ n\=10,\ h\=20\r\n\ Debe\ ser\ POSSIBLE\ (10\ tazas\ con\ tapas)\r\n
+comment11.params=
+comment11.target=void\ testCase11()
+comment11.text=\r\n\ Caso\ de\ prueba\ 11\:\ n\=4,\ h\=0\r\n\ Debe\ ser\ IMPOSSIBLE\ (altura\ menor\ a\ 1)\r\n
+comment12.params=
+comment12.target=void\ testCase12()
+comment12.text=\r\n\ Caso\ de\ prueba\ 12\:\ n\=4,\ h\=8\r\n\ Debe\ ser\ POSSIBLE\ (4\ tazas\ con\ tapas)\r\n
+comment2.params=
+comment2.target=void\ testCase02()
+comment2.text=\r\n\ Caso\ de\ prueba\ 2\:\ n\=2,\ h\=1\r\n\ Debe\ ser\ POSSIBLE\ (una\ tapa\ suelta)\r\n
+comment3.params=
+comment3.target=void\ testCase03()
+comment3.text=\r\n\ Caso\ de\ prueba\ 3\:\ n\=2,\ h\=2\r\n\ Debe\ ser\ POSSIBLE\ (una\ taza\ con\ tapa)\r\n
+comment4.params=
+comment4.target=void\ testCase04()
+comment4.text=\r\n\ Caso\ de\ prueba\ 4\:\ n\=2,\ h\=3\r\n\ Debe\ ser\ POSSIBLE\ (dos\ tazas\ sin\ tapas)\r\n
+comment5.params=
+comment5.target=void\ testCase05()
+comment5.text=\r\n\ Caso\ de\ prueba\ 5\:\ n\=3,\ h\=4\r\n\ Debe\ ser\ POSSIBLE\ (dos\ tazas\ con\ tapas)\r\n
+comment6.params=
+comment6.target=void\ testCase06()
+comment6.text=\r\n\ Caso\ de\ prueba\ 6\:\ n\=3,\ h\=6\r\n\ Debe\ ser\ POSSIBLE\ (3\ tazas\ con\ tapas\ \=\ altura\ 6)\r\n
+comment7.params=
+comment7.target=void\ testCase07()
+comment7.text=\r\n\ Caso\ de\ prueba\ 7\:\ n\=5,\ h\=9\r\n\ Debe\ ser\ POSSIBLE\ (altura\ m\u00E1xima\ con\ 5\ tazas\ sin\ tapas)\r\n
+comment8.params=
+comment8.target=void\ testCase08()
+comment8.text=\r\n\ Caso\ de\ prueba\ 8\:\ n\=5,\ h\=10\r\n\ Debe\ ser\ POSSIBLE\ (5\ tazas\ con\ tapas\ \=\ altura\ 10)\r\n
+comment9.params=
+comment9.target=void\ testCase09()
+comment9.text=\r\n\ Caso\ de\ prueba\ 9\:\ n\=10,\ h\=15\r\n\ Debe\ ser\ POSSIBLE\ (altura\ impar)\r\n
+numComments=13

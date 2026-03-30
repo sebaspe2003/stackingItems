@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=TowerCC4Test
+comment0.text=\r\n\ Pruebas\ de\ casos\ comunes\ del\ Ciclo\ 4\ (creaci\u00F3n\ colectiva).\r\n\ Verifican\ la\ interacci\u00F3n\ entre\ los\ distintos\ tipos\ de\ tazas\ y\ tapas.\r\n\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=
+comment1.target=void\ openerCupRemovesFearfulLidsOnEntry()
+comment2.params=
+comment2.target=void\ crazyLidGoesToBaseEvenWithHierarchicalCup()
+comment3.params=
+comment3.target=void\ swapBetweenTwoNormalCupsWorks()
+comment4.params=
+comment4.target=void\ swapWithFrozenCupDoesNothing()
+comment5.params=
+comment5.target=void\ mixedTowerHasCorrectItemCount()
+comment6.params=
+comment6.target=void\ mixedLidsHaveCorrectCount()
+comment7.params=
+comment7.target=void\ solveEdgeCaseHEquals1()
+comment8.params=
+comment8.target=void\ solveEdgeCaseHEquals2N()
+comment9.params=
+comment9.target=void\ solveEdgeCaseHGreaterThan2N()
+numComments=10

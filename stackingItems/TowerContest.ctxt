@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TowerContest
+comment1.params=n\ h
+comment1.target=java.lang.String\ solve(int,\ int)
+comment1.text=\r\n\ Resuelve\ el\ problema\ de\ la\ marat\u00F3n.\r\n\ Determina\ si\ es\ posible\ construir\ una\ torre\ de\ altura\ h\ con\ n\ tazas.\r\n\ \r\n\ @param\ n\ n\u00FAmero\ de\ tazas\ disponibles\ (1\ a\ n)\r\n\ @param\ h\ altura\ objetivo\ de\ la\ torre\r\n\ @return\ "POSSIBLE"\ si\ es\ posible,\ "IMPOSSIBLE"\ si\ no\ lo\ es\r\n
+comment2.params=n\ h
+comment2.target=void\ simulate(int,\ int)
+numComments=3

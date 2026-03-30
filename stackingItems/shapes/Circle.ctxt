@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ C\u00EDrculo\ que\ puede\ manipularse\ y\ dibujarse\ en\ el\ canvas.\r\n\ Extiende\ Shape\ heredando\ visibilidad,\ color\ y\ movimiento.\r\n\r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\ (Modified)\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=
+comment1.target=Circle()
+comment1.text=\r\n\ Crea\ un\ c\u00EDrculo\ con\ posici\u00F3n\ y\ color\ por\ defecto.\r\n
+comment2.params=newDiameter
+comment2.target=void\ changeSize(int)
+comment2.text=\r\n\ Cambia\ el\ di\u00E1metro\ del\ c\u00EDrculo.\r\n\ @param\ newDiameter\ nuevo\ di\u00E1metro\ en\ p\u00EDxeles\r\n
+comment3.params=
+comment3.target=int\ getDiameter()
+comment3.text=@return\ di\u00E1metro\ actual\ en\ p\u00EDxeles
+comment4.params=
+comment4.target=void\ draw()
+numComments=5

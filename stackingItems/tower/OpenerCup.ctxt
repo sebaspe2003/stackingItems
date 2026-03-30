@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=OpenerCup
+comment0.text=\r\n\ Taza\ de\ tipo\ opener\:\ al\ entrar\ a\ la\ torre\ elimina\ todas\ las\ tapas\r\n\ que\ le\ impiden\ el\ paso\ (tapas\ de\ tazas\ m\u00E1s\ peque\u00F1as\ que\ est\u00E9n\ encima).\r\n\ Se\ distingue\ visualmente\ con\ color\ naranja.\r\n\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=number
+comment1.target=OpenerCup(int)
+comment1.text=\r\n\ Crea\ una\ taza\ opener\ con\ el\ n\u00FAmero\ identificador\ dado.\r\n\ @param\ number\ n\u00FAmero\ identificador\r\n
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment2.text=\r\n\ {@inheritDoc}\r\n\ @return\ "opener"\r\n
+numComments=3

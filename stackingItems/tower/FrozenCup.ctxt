@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=FrozenCup
+comment0.text=\r\n\ Taza\ de\ tipo\ frozen\ (propuesta\ propia)\:\ congela\ su\ posici\u00F3n\ en\ la\ torre,\r\n\ impidiendo\ que\ cualquier\ swap\ la\ mueva\ mientras\ est\u00E9\ activa.\r\n\ Se\ distingue\ visualmente\ con\ color\ gray.\r\n\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=number
+comment1.target=FrozenCup(int)
+comment1.text=\r\n\ Crea\ una\ taza\ frozen\ con\ el\ n\u00FAmero\ identificador\ dado.\r\n\ @param\ number\ n\u00FAmero\ identificador\r\n
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment2.text=\r\n\ {@inheritDoc}\r\n\ @return\ "frozen"\r\n
+comment3.params=
+comment3.target=boolean\ isFrozen()
+comment3.text=\r\n\ Indica\ si\ la\ taza\ est\u00E1\ congelada\ (no\ puede\ ser\ movida\ por\ swap).\r\n\ @return\ true\ si\ est\u00E1\ congelada\r\n
+comment4.params=frozen
+comment4.target=void\ setFrozen(boolean)
+comment4.text=\r\n\ Cambia\ el\ estado\ de\ congelamiento\ de\ la\ taza.\r\n\ @param\ frozen\ true\ para\ congelar,\ false\ para\ descongelar\r\n
+numComments=5

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ Tri\u00E1ngulo\ que\ puede\ manipularse\ y\ dibujarse\ en\ el\ canvas.\r\n\ Extiende\ Shape\ heredando\ visibilidad,\ color\ y\ movimiento.\r\n\r\n\ @author\ Michael\ Kolling\ and\ David\ J.\ Barnes\ (Modified)\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=
+comment1.target=Triangle()
+comment1.text=\r\n\ Crea\ un\ tri\u00E1ngulo\ con\ posici\u00F3n\ y\ color\ por\ defecto.\r\n
+comment2.params=newHeight\ newWidth
+comment2.target=void\ changeSize(int,\ int)
+comment2.text=\r\n\ Cambia\ el\ tama\u00F1o\ del\ tri\u00E1ngulo.\r\n\ @param\ newHeight\ nueva\ altura\ en\ p\u00EDxeles\r\n\ @param\ newWidth\ \ nuevo\ ancho\ en\ p\u00EDxeles\r\n
+comment3.params=
+comment3.target=int\ getHeight()
+comment3.text=@return\ altura\ actual\ en\ p\u00EDxeles
+comment4.params=
+comment4.target=int\ getWidth()
+comment4.text=@return\ ancho\ actual\ en\ p\u00EDxeles
+comment5.params=
+comment5.target=void\ draw()
+numComments=6

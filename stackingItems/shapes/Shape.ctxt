@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Shape
+comment0.text=\r\n\ Clase\ abstracta\ base\ para\ todas\ las\ figuras\ del\ paquete\ shapes.\r\n\ Define\ el\ contrato\ com\u00FAn\ de\ visibilidad,\ color\ y\ movimiento.\r\n\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=
+comment1.target=void\ makeVisible()
+comment1.text=\r\n\ Hace\ visible\ la\ figura.\ Si\ ya\ era\ visible,\ no\ hace\ nada.\r\n
+comment2.params=
+comment2.target=void\ makeInvisible()
+comment2.text=\r\n\ Hace\ invisible\ la\ figura.\ Si\ ya\ era\ invisible,\ no\ hace\ nada.\r\n
+comment3.params=distance
+comment3.target=void\ moveHorizontal(int)
+comment3.text=\r\n\ Mueve\ la\ figura\ horizontalmente.\r\n\ @param\ distance\ distancia\ en\ p\u00EDxeles\ (negativo\ \=\ izquierda)\r\n
+comment4.params=distance
+comment4.target=void\ moveVertical(int)
+comment4.text=\r\n\ Mueve\ la\ figura\ verticalmente.\r\n\ @param\ distance\ distancia\ en\ p\u00EDxeles\ (negativo\ \=\ arriba)\r\n
+comment5.params=newColor
+comment5.target=void\ changeColor(java.lang.String)
+comment5.text=\r\n\ Cambia\ el\ color\ de\ la\ figura.\r\n\ @param\ newColor\ nuevo\ color\ ("red",\ "blue",\ "green",\ "yellow",\ "magenta",\ "black",\ "white")\r\n
+comment6.params=
+comment6.target=void\ draw()
+comment6.text=\r\n\ Dibuja\ la\ figura\ en\ el\ canvas\ si\ es\ visible.\r\n
+comment7.params=
+comment7.target=void\ erase()
+comment7.text=\r\n\ Borra\ la\ figura\ del\ canvas\ si\ era\ visible.\r\n
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CrazyLid
+comment0.text=\r\n\ Tapa\ de\ tipo\ crazy\:\ en\ lugar\ de\ tapar\ a\ su\ taza,\ se\ ubica\ en\ la\ base\r\n\ de\ la\ torre\ al\ ser\ insertada.\r\n\ Se\ distingue\ visualmente\ con\ color\ red.\r\n\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=cupNumber
+comment1.target=CrazyLid(int)
+comment1.text=\r\n\ Crea\ una\ tapa\ crazy\ asociada\ al\ n\u00FAmero\ de\ taza\ dado.\r\n\ @param\ cupNumber\ n\u00FAmero\ de\ la\ taza\ asociada\r\n
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment2.text=\r\n\ {@inheritDoc}\r\n\ @return\ "crazy"\r\n
+numComments=3

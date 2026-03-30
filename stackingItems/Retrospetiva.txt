@@ -1,0 +1,16 @@
+1. ¿Cuáles fueron los mini-ciclos definidos? Justifíquenlos.
+Mini ciclos definidos fueron en total 8, en los cuales nos toco hacer cada una de los requerimientos que nos pedian.
+2. ¿Cuál es el estado actual del proyecto en términos de mini-ciclos? ¿por qué?
+Completos, se hieron todos los mini-ciclos, hubieron errores, pero con correcciones del profe los fuimos puliendo hasta que los acabamos
+3. ¿Cuál fue el tiempo total invertido por cada uno de ustedes? (Horas/Hombre)
+22 horas Nicolás y 22 horas Sebatian
+4. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+Lograr tapar las tazas, porque crear el metodo nos costo
+5. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+Que las tapas se pusieran bien en las tazas, no pudimos resolverlo 
+6. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+Hacer una de las pruebas de xp que era pair programing
+7. Considerando las prácticas XP incluidas en los laboratorios. ¿cuál fue la más útil? ¿por qué?
+Pair programing porque con ella pudimos identificar errores y corregirlos a la par de quien hacia codigo y viseversa 
+8. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+

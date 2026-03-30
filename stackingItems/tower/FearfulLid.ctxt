@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FearfulLid
+comment0.text=\r\n\ Tapa\ de\ tipo\ fearful\:\ si\ su\ taza\ compa\u00F1era\ no\ est\u00E1\ en\ la\ torre,\ no\ entra.\r\n\ Si\ est\u00E1\ tapando\ a\ su\ taza,\ no\ sale.\r\n\ Se\ distingue\ visualmente\ con\ color\ magenta.\r\n\r\n\ @author\ Nicol\u00E1s\ Prieto\r\n\ @author\ Sebastian\ Pe\u00F1a\r\n\ @version\ Ciclo\ 4\r\n
+comment1.params=cupNumber
+comment1.target=FearfulLid(int)
+comment1.text=\r\n\ Crea\ una\ tapa\ fearful\ asociada\ al\ n\u00FAmero\ de\ taza\ dado.\r\n\ @param\ cupNumber\ n\u00FAmero\ de\ la\ taza\ asociada\r\n
+comment2.params=
+comment2.target=java.lang.String\ getType()
+comment2.text=\r\n\ {@inheritDoc}\r\n\ @return\ "fearful"\r\n
+numComments=3
